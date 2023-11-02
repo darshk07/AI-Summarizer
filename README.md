@@ -2,4 +2,4 @@
 
 This project is live, check it out!!
 
-[https://gpt4-article-summarizer.netlify.app/](url)
+https://gpt4-article-summarizer.netlify.app/
